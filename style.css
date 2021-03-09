@@ -30,7 +30,11 @@ body {
 /* https://cdn.pixabay.com/photo/2015/03/26/09/41/condominium-690086_960_720.jpg */
 /* https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_960_720.jpg */
 
-h3{
+html  {
+  scroll-behavior: smooth;
+}
+
+h3  {
   font-style: oblique;
   font-size: 50px;
   margin: 70px 10px;
